@@ -1,0 +1,5 @@
+com\prjrmi\dao\StudentManager.class
+com\prjrmi\model\Student.class
+com\prjrmi\App.class
+com\prjrmi\model\Grade.class
+com\prjrmi\dao\StudentManagerImpl.class
