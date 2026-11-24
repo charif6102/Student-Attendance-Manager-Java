@@ -1,0 +1,14 @@
+# Maven build output
+target/
+
+# Local database and SQLite binaries
+*.db
+sqllite/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
